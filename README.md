@@ -2,9 +2,7 @@
 
 The goal of the project is to recreate  recreate the printf function. This project teaches us about variadic arguments.
 
-- Supported conversions: %, c, s, p, i, d, u, x, X
-- Supported flags: # + (space)
-- Supported options: - 0 . * width
+Supported conversions: %, c, s, p, i, d, u, x, X
 
 ## Usage
 
